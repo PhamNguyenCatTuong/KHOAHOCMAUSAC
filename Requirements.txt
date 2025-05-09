@@ -1,3 +1,4 @@
+python==3.9.8
 streamlit
 colour-science
 numpy
